@@ -1,7 +1,30 @@
-$body-color: red;
+.para {
+	width: 30%;
+	float: left;
+	margin: 1.66%;
 
-body {
-  background-color: $body-color;
+.pic {
+Background-size: cover;
+Background-repeat: no-repeat;
+Height: 700px;
+}
+
+}
+.todo {
+  width: 30%;
+  float:left;
+  margin: 1.66%;
+}
+
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: red;
+  color: white;
+  text-align: center;
 }
 
 
